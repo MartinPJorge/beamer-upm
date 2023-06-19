@@ -14,4 +14,4 @@ Just include all files from this folder along your `.tex` with `\usetheme{upm}`.
 
 # Slides' images
 ![title slide](title.png)
-![body slide](body.png)
+![body slide](bodyslide.png)
